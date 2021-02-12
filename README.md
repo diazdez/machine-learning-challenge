@@ -10,7 +10,7 @@ To help process this data, you will create machine learning models capable of cl
 
 **In this homework assignment, you will need to:**
 
-- Preprocess the raw data
+- [Link](https://www.kaggle.com/nasa/kepler-exoplanet-search-results "Preprocess the raw data")
 - Tune the models
 - Compare two or more models
 
