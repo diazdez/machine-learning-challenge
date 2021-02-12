@@ -49,7 +49,7 @@ To help process this data, you will create machine learning models capable of cl
 - Submit the link to your GitHub project to Bootcamp Spot.
 - Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
-============================================================================================================
+====================================================================
 
 # Analysis:
 
