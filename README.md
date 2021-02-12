@@ -49,6 +49,29 @@ To help process this data, you will create machine learning models capable of cl
 - Submit the link to your GitHub project to Bootcamp Spot.
 - Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
+============================================================================================================
+
+# Analysis:
+
+## Model1 and Model1a: Logistic Regression
+
+**Model1:** After cleaning the data I used all the columns, which resulted in a good scores:
+-	Training Data Score: 0.9945105215004575
+-	Testing Data Score: 0.9935956084172004
+
+**Model1a:** The X values varied because only a “selected” number of columns were selected, which resulted in different scores. So this help confirm that the data from specific columns impacted the score results. For example X values for “selected3_features” returned the following: 
+
+-	Training Score: 0.8854833790789874
+-	Testing Score: 0.8815187557182068
+
+## Model2: SVM
+
+**Model2:** similar to Model1, used all the columns for the X values (with the exception of y value column), the scores resulted the same. I
+-	Training Score: 0.9945105215004575
+-	Testing Score: 0.9935956084172004
+
+There did not appear to be a difference with using Logistic Regression and SVM. 
+
 
 
 
